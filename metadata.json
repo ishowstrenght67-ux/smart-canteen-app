@@ -1,0 +1,6 @@
+{
+  "name": "Smart Canteen",
+  "description": "College smart canteen app with menu, real-time availability, ordering, digital token numbers, live kitchen order status, and admin dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
