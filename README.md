@@ -35,12 +35,13 @@ The system allows users to view available food items, check prices, place orders
 
 The project is developed using modern web technologies.
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** [Add your backend technology]
-- **Database:** [Add your database]
-- **Version Control:** Git & GitHub
+## 🛠️ Technologies Used
 
-> Update the backend and database sections according to the technologies actually used in your project.
+- HTML
+- CSS
+- JavaScript
+- Google AI
+- GitHub
 
 ---
 
