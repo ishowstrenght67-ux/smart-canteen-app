@@ -1,6 +1,6 @@
 # 🍽️ Smart Canteen App
 
-## 📌 Project Overview
+## Project Overview
 
 The **Smart Canteen App** is a web-based application designed to simplify and modernize the traditional canteen ordering process.
 
@@ -8,7 +8,7 @@ The system allows users to view available food items, check prices, place orders
 
 ---
 
-## 🎯 Objectives
+##Objectives
 
 - To develop a digital platform for canteen food ordering.
 - To reduce waiting time and long queues in the canteen.
@@ -18,24 +18,24 @@ The system allows users to view available food items, check prices, place orders
 
 ---
 
-## ✨ Features
+##Features
 
-- 👤 User-friendly interface
-- 🍔 Browse available food items
-- 💰 View food item prices
-- 🛒 Place food orders
-- 📋 Manage orders
-- 🔍 Easy navigation
-- 📱 Responsive design
-- ⚡ Fast and simple ordering process
+- User-friendly interface
+- Browse available food items
+- View food item prices
+- Place food orders
+- Manage orders
+- Easy navigation
+- Responsive design
+- Fast and simple ordering process
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 The project is developed using modern web technologies.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -45,7 +45,7 @@ The project is developed using modern web technologies.
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```text
 smart-canteen-app/
